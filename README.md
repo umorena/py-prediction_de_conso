@@ -1,5 +1,5 @@
 # Prédiction de consommations futures
-Dans ce répertoire, vous retrouverez les échantillons d'entrée ainsi que les codes correspondants de prédiction.
+__Dans ce répertoire, vous trouverez les échantillons d'entrée ainsi que les codes correspondants de prédiction. Vous pouvez également accéder aux recherches bibliographiques effectuées ainsi qu'à notre analyse sur les différentes méthodes dans notre rapport.__
 Chaque jeu de données nécessite un fichier différent, puisque les informations sont classées différemment dans chaque fichier csv. Un fichier intermédiaire pourrait être utile à l'avenir afin de créer un dataset unique en fonction de n'importe quel type de données d'entrée.  
 __NB : Le notebook jupyer est nécessaire à l'éxécution des programmes : version en ligne https://jupyter.org/try-jupyter/lab/ ou version téléchargeable https://jupyter.org/install .__
 
