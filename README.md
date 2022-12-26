@@ -4,6 +4,6 @@ Chaque jeu de données nécessite un fichier différent, puisque les information
 __NB : Le notebook jupyer est nécessaire à l'éxécution des programmes. voir https://jupyter.org/try-jupyter/lab/ pour plus d'informations.__
 
 ## Fichier code et échantillons correspondant :
-1. predictions.ipynb / conso.csv
-2. predictionsConsoPleiades.ipynb / consoPleiades.csv
-3. predictions-TetuanCity.ipynb / Tetuan-City-power-consumption.csv
+1. predictions.ipynb + conso.csv
+2. predictionsConsoPleiades.ipynb + consoPleiades.csv
+3. predictions-TetuanCity.ipynb + Tetuan-City-power-consumption.csv
